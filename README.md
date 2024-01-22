@@ -11,3 +11,6 @@ P38 1.3 特殊值
 
 ## 图灵社区主页
 1. https://www.ituring.com.cn/book/2583
+
+# 其他书籍
+1. https://github.com/richardwei195/eBooks/tree/master/Web
